@@ -1,0 +1,3 @@
+target 'ExampleApp' do
+pod 'BlinkingLabel'
+end
